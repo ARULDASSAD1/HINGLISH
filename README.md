@@ -41,3 +41,6 @@ python inference.py to generate replies
 As per approval from ConversalLabs, we used Hugging Face fine-tuning instead of OpenAI API due to budget constraints.
 
 ---
+to use the trained model go to below link and use it:-
+
+https://drive.google.com/drive/folders/1iHhlqtZD8xFCQFRsytbY9YFRz-WExYN_?usp=drive_link
